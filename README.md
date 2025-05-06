@@ -21,6 +21,7 @@ My goal is to protect systems, reduce risk, and contribute as a valuable member 
 
 ## ![Tools Icon](https://img.shields.io/badge/-Tools-333333?style=flat-square&logo=toolbox&logoColor=white) Tools & Technologies:
 
+<img src="https://img.shields.io/badge/Microsoft%20Sentinel-5C2D91?style=flat&logo=Microsoft&logoColor=white" />
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
