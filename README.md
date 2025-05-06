@@ -1,9 +1,12 @@
 # Hey, I’m Deniqua 👋  
-**Aspiring Cybersecurity Analyst | Cloud Security Enthusiast | Lifelong Learner**
+SOC Analyst | Cybersecurity Enthusiast | Committed to Detection and Defense
 
-I’m stepping into my purpose as a cybersecurity analyst, learning, building, and protecting along the way. I’m currently earning my Cybersecurity and Information Assurance degree at WGU, gaining hands-on skills in threat detection, cloud security, and SOC operations. Every lab I complete brings me closer to where I’m headed.
+I’m currently earning my Bachelor's in Cybersecurity and Information Assurance at WGU where I’m building hands-on experience in threat detection, incident response, and SOC operations. I take a practical approach to learning by building labs, analyzing attack patterns, and working through real-world scenarios found in security operations centers.
 
-Right now, I’m focused on growing my technical skills and staying active in the cybersecurity space. I’m building labs, practicing with tools like Splunk and Wireshark, and diving into platforms like TryHackMe to sharpen my threat detection and analysis. I’m also studying for certifications like CCSP to strengthen my cloud security knowledge and open more doors. Every day I’m putting in the work to turn this passion into my profession.
+I’m actively developing my skills with tools like Splunk, Wireshark, and TryHackMe while preparing for advanced certifications to deepen my expertise in detection and blue team operations. Each project I complete sharpens my ability to monitor, investigate, and respond to threats in dynamic environments.
+
+My goal is to protect systems, reduce risk, and contribute as a valuable member of a security operations team.
+
 
 ---
 
