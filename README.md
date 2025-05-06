@@ -34,6 +34,11 @@ My goal is to protect systems, reduce risk, and contribute as a valuable member 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 ---
+## GitHub Stats
+
+![Deniqua's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deniqua20&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deniqua20&layout=compact)
 
 ## ![Learning Icon](https://img.shields.io/badge/-Learning-yellow?style=flat-square&logo=bookstack&logoColor=white) Currently Leveling Up:
 - Studying for **CCSP (Certified Cloud Security Professional)**  
