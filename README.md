@@ -1,12 +1,11 @@
 # Hey, I’m Deniqua 👋  
-SOC Analyst | Cybersecurity Enthusiast | Committed to Detection and Defense
+Cloud Security & GRC | Security Operations & Monitoring | Risk, Compliance & Defense
 
-I’m currently earning my Bachelor's in Cybersecurity and Information Assurance at WGU where I’m building hands-on experience in threat detection, incident response, and SOC operations. I take a practical approach to learning by building labs, analyzing attack patterns, and working through real-world scenarios found in security operations centers.
+I’m a cybersecurity and network operations professional with hands-on experience monitoring environments, analyzing system and security alerts, and supporting compliance-driven operations in regulated settings. I’m currently pursuing a Bachelor’s in Cybersecurity and Information Assurance at WGU, with a strong focus on cloud security, governance, risk, and compliance.
 
-I’m actively developing my skills with tools like Splunk, Wireshark, and TryHackMe while preparing for advanced certifications to deepen my expertise in detection and blue team operations. Each project I complete sharpens my ability to monitor, investigate, and respond to threats in dynamic environments.
+My work and labs emphasize security monitoring, log analysis, incident documentation, identity and access controls, and data protection using tools such as Microsoft Sentinel, Azure, Splunk, and Wireshark. I take a practical approach by building cloud and security labs, reviewing access configurations, and mapping technical findings to risk, compliance, and operational requirements.
 
-My goal is to protect systems, reduce risk, and contribute as a valuable member of a security operations team.
-
+I’m particularly interested in cloud security and GRC roles that bridge technical security operations with risk management, compliance, and policy-driven environments. My goal is to support secure cloud environments, reduce organizational risk, and contribute to teams focused on governance, risk, and compliance.
 
 ---
 
