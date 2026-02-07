@@ -35,31 +35,35 @@ I’m pursuing roles in **IAM Engineering**, **Cloud Security**, and **GRC** whe
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![Freshdesk](https://img.shields.io/badge/Freshdesk-28C101?style=for-the-badge&logo=freshworks&logoColor=white)](#)
-
------
-
+[![Freshdesk](https://img.shields.io/badge/Freshdesk-28C101?style=for-the-badge&logo=freshworks&logoColor=
 ## 🏅 Certifications
 
-|Certification                        |Focus Area        |
-|-------------------------------------|------------------|
-|CompTIA Security+                    |Core Security     |
-|CompTIA CySA+                        |Security Analytics|
-|CompTIA PenTest+                     |Offensive Security|
-|Microsoft Azure Fundamentals (AZ-900)|Cloud Platform    |
-|Studying for CCSP                    |Cloud Security  
-|SC-300
+|Certification                        |Focus Area                   |
+|-------------------------------------|-----------------------------|
+|CompTIA Security+                    |Core Security                |
+|CompTIA CySA+                        |Security Analytics           |
+|CompTIA PenTest+                     |Offensive Security           |
+|Microsoft Azure Fundamentals (AZ-900)|Cloud Platform               |
+|Microsoft 365 Fundamentals (MS-900)  |Cloud Productivity & Security|
 
 -----
 
 ## 📚 Currently Leveling Up
 
 - Studying for **CCSP (Certified Cloud Security Professional)**
+- Studying for **SC-300 (Microsoft Identity and Access Administrator)**
 - Building hands-on labs in **Azure IAM**, **Entra ID**, and **conditional access**
 - Deepening skills in **KQL**, **Splunk SPL**, and **PowerShell automation**
 - Expanding cloud security knowledge across **GRC frameworks**
 
+-----
 
+## 📫 Let’s Connect
 
+- 📧 **Email**: [deniquamarie@gmail.com](mailto:deniquamarie@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/deniquacollins](https://linkedin.com/in/deniquacollins)
+- 👥 [![Follow](https://img.shields.io/github/followers/Deniqua20?label=Follow&style=social)](https://github.com/Deniqua20)
 
+-----
 
+*Securing identities. Reducing risk. Building forward.*
