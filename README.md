@@ -1,11 +1,14 @@
 # Hey, I’m Deniqua 👋  
-Cloud Security & GRC | Security Operations & Monitoring | Risk, Compliance & Defense
+IAM & Cloud Security | GRC & Compliance | Security Operations
+I’m a cybersecurity professional with hands-on experience in network operations, security monitoring, and identity & access management. I hold a Bachelor’s in Cybersecurity and Information Assurance from WGU and 10+ industry certifications including CompTIA Security+, CySA+, PenTest+, and Microsoft Azure Fundamentals.
+My work focuses on securing cloud environments through identity governance, access controls, compliance mapping, and security monitoring. I build labs and tools that bridge technical security operations with risk management and policy-driven frameworks — from configuring Azure AD conditional access policies to writing detection queries in Sentinel and Splunk.
+I’m pursuing roles in IAM Engineering, Cloud Security, and GRC where I can help organizations reduce risk, enforce least-privilege access, and maintain compliance across cloud environments.
 
-I’m a cybersecurity and network operations professional with hands-on experience monitoring environments, analyzing system and security alerts, and supporting compliance-driven operations in regulated settings. I’m currently pursuing a Bachelor’s in Cybersecurity and Information Assurance at WGU, with a strong focus on cloud security, governance, risk, and compliance.
 
-My work and labs emphasize security monitoring, log analysis, incident documentation, identity and access controls, and data protection using tools such as Microsoft Sentinel, Azure, Splunk, and Wireshark. I take a practical approach by building cloud and security labs, reviewing access configurations, and mapping technical findings to risk, compliance, and operational requirements.
 
-I’m particularly interested in cloud security and GRC roles that bridge technical security operations with risk management, compliance, and policy-driven environments. My goal is to support secure cloud environments, reduce organizational risk, and contribute to teams focused on governance, risk, and compliance.
+
+
+
 
 ---
 
