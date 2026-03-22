@@ -1,12 +1,35 @@
-# Hey, I’m Deniqua 👋
+# Hey, I'm Deniqua 👋
+**IAM & Cloud Security | Security Operations & Monitoring**
 
-**IAM & Cloud Security | GRC & Compliance | Security Operations**
+I'm a cybersecurity professional with hands-on experience in 
+network operations, security monitoring, and identity & access 
+management. I hold a Bachelor's in Cybersecurity and Information 
+Assurance from WGU and 10+ industry certifications including 
+CompTIA Security+, CySA+, PenTest+, and Microsoft Azure 
+Fundamentals.
 
-I’m a cybersecurity professional with hands-on experience in network operations, security monitoring, and identity & access management. I hold a Bachelor’s in Cybersecurity and Information Assurance from WGU and 10+ industry certifications including CompTIA Security+, CySA+, PenTest+, and Microsoft Azure Fundamentals.
+My work focuses on securing cloud environments through identity 
+governance, access controls, and security monitoring. I build 
+labs and tools that bridge technical security operations with 
+policy-driven frameworks — from configuring Azure AD conditional 
+access policies to writing detection queries in Sentinel and Splunk.
 
-My work focuses on securing cloud environments through identity governance, access controls, compliance mapping, and security monitoring. I build labs and tools that bridge technical security operations with risk management and policy-driven frameworks — from configuring Azure AD conditional access policies to writing detection queries in Sentinel and Splunk.
+## 🏆 Certifications
+- Okta Certified Professional
+- CompTIA Security+ | CySA+ | PenTest+
+- Microsoft Azure Fundamentals
 
-I’m pursuing roles in **IAM Engineering**, **Cloud Security**, and **GRC** where I can help organizations reduce risk, enforce least-privilege access, and maintain compliance across cloud environments.
+## 📚 Currently Studying
+- SC-300 (Microsoft Identity and Access Administrator)
+
+## 🔧 Technical Focus
+- Azure IAM • Entra ID • Conditional Access • Okta
+- KQL • Splunk SPL • PowerShell
+- Security Monitoring & SIEM
+
+## 🎯 Open To
+IAM Engineering • Cloud Security • Security Analyst roles
+
 
 -----
 
@@ -50,11 +73,9 @@ I’m pursuing roles in **IAM Engineering**, **Cloud Security**, and **GRC** whe
 
 ## 📚 Currently Leveling Up
 
-- Studying for **CCSP (Certified Cloud Security Professional)**
-- Studying for **SC-300 (Microsoft Identity and Access Administrator)**
-- Building hands-on labs in **Azure IAM**, **Entra ID**, and **conditional access**
+- Studying for **SC-300** (Microsoft Identity and Access Administrator)
+- Building hands-on labs in **Azure IAM**, **Entra ID**, and **Conditional Access**
 - Deepening skills in **KQL**, **Splunk SPL**, and **PowerShell automation**
-- Expanding cloud security knowledge across **GRC frameworks**
 
 -----
 
