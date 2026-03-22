@@ -11,7 +11,7 @@ Fundamentals.
 My work focuses on securing cloud environments through identity 
 governance, access controls, and security monitoring. I build 
 labs and tools that bridge technical security operations with 
-policy-driven frameworks — from configuring Azure AD conditional 
+policy-driven frameworks from configuring Azure AD conditional 
 access policies to writing detection queries in Sentinel and Splunk.
 
 ## 🏆 Certifications
