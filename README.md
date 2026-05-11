@@ -58,7 +58,6 @@ IAM Engineering • Cloud Security • Security Analyst roles
 [![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)](#)
 [![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![Freshdesk](https://img.shields.io/badge/Freshdesk-28C101?style=for-the-badge&logo=freshworks&logoColor=
 ## 🏅 Certifications
 
 |Certification                        |Focus Area                   |
